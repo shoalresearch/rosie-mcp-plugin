@@ -9,7 +9,7 @@ It now also exposes a Claude Code marketplace manifest at [`.claude-plugin/marke
 Use this repo as the marketplace source:
 
 ```text
-zaddycoin/rosie-mcp-plugin
+shoalresearch/rosie-mcp-plugin
 ```
 
 Then install:

@@ -3,12 +3,12 @@
   "version": "0.2.3",
   "description": "Codex plugin for the Rosie remote MCP server, service discovery, and case-manager query evaluation workflows.",
   "author": {
-    "name": "zaddycoin",
+    "name": "shoalresearch",
     "email": "support@rosie.fyi",
-    "url": "https://github.com/zaddycoin"
+    "url": "https://github.com/shoalresearch"
   },
   "homepage": "https://www.rosie.fyi/",
-  "repository": "https://github.com/zaddycoin/rosie-mcp-plugin",
+  "repository": "https://github.com/shoalresearch/rosie-mcp-plugin",
   "license": "UNLICENSED",
   "keywords": [
     "rosie",
@@ -25,7 +25,7 @@
     "displayName": "Rosie MCP",
     "shortDescription": "Rosie resource discovery, search QA, and case-manager evaluation guidance.",
     "longDescription": "Installs the hosted Rosie MCP server and adds skills that help agents navigate service discovery, category exploration, search telemetry, and realistic case-manager query evaluation.",
-    "developerName": "zaddycoin",
+    "developerName": "shoalresearch",
     "category": "Productivity",
     "capabilities": [
       "Interactive",

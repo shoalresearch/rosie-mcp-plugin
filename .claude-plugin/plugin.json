@@ -4,11 +4,11 @@
   "description": "Rosie MCP plugin for Alameda County resource discovery, search QA, and case-manager evaluation workflows.",
   "version": "0.2.3",
   "author": {
-    "name": "zaddycoin",
+    "name": "shoalresearch",
     "email": "support@rosie.fyi"
   },
   "homepage": "https://www.rosie.fyi/",
-  "repository": "https://github.com/zaddycoin/rosie-mcp-plugin",
+  "repository": "https://github.com/shoalresearch/rosie-mcp-plugin",
   "license": "UNLICENSED",
   "keywords": [
     "rosie",
