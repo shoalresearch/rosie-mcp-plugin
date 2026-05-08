@@ -1,6 +1,7 @@
 {
   "mcpServers": {
     "rosie": {
+      "type": "http",
       "url": "https://mcp.rosie.fyi/mcp"
     }
   }
