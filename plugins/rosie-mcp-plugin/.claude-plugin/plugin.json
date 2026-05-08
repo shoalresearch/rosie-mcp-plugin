@@ -1,7 +1,7 @@
 {
   "name": "rosie-mcp-plugin",
   "description": "Rosie MCP plugin for Alameda County resource discovery, search QA, and case-manager evaluation workflows.",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "author": {
     "name": "shoalresearch",
     "email": "support@rosie.fyi"

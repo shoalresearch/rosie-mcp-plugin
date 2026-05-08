@@ -1,7 +1,7 @@
 {
   "name": "rosie-marketplace",
   "description": "Rosie plugins and MCP integrations for resource discovery workflows.",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "owner": {
     "name": "shoalresearch",
     "email": "support@rosie.fyi"
@@ -9,9 +9,14 @@
   "plugins": [
     {
       "name": "rosie-mcp-plugin",
-      "source": "./plugins/rosie-mcp-plugin",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/shoalresearch/rosie-mcp-plugin.git",
+        "path": "plugins/rosie-mcp-plugin",
+        "ref": "main"
+      },
       "description": "Hosted Rosie MCP plus skills for Alameda County navigation, search QA, and case-manager query evaluation.",
-      "version": "0.2.8",
+      "version": "0.2.9",
       "author": {
         "name": "shoalresearch",
         "email": "support@rosie.fyi"
