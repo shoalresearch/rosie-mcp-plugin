@@ -1,39 +1,21 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "rosie-marketplace",
+  "description": "Rosie plugins and MCP integrations for resource discovery workflows.",
+  "version": "0.2.8",
   "owner": {
     "name": "shoalresearch",
     "email": "support@rosie.fyi"
-  },
-  "metadata": {
-    "description": "Rosie plugins and MCP integrations for resource discovery workflows.",
-    "version": "0.2.7"
   },
   "plugins": [
     {
       "name": "rosie-mcp-plugin",
       "source": "./plugins/rosie-mcp-plugin",
       "description": "Hosted Rosie MCP plus skills for Alameda County navigation, search QA, and case-manager query evaluation.",
-      "version": "0.2.7",
+      "version": "0.2.8",
       "author": {
         "name": "shoalresearch",
         "email": "support@rosie.fyi"
-      },
-      "homepage": "https://www.rosie.fyi/",
-      "repository": "https://github.com/shoalresearch/rosie-mcp-plugin",
-      "license": "UNLICENSED",
-      "keywords": [
-        "rosie",
-        "mcp",
-        "alameda-county",
-        "services",
-        "resource-navigation",
-        "case-manager",
-        "search-evaluation"
-      ],
-      "category": "productivity",
-      "skills": "./skills",
-      "mcpServers": "./.mcp.json"
+      }
     }
   ]
 }
